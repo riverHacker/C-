@@ -2,10 +2,11 @@
 windows,c++线程池
 # 使用方法
 示例代码：
+***
+```
 #include"threadpool.h"
 
 void bs() {
-
 	printf("我i是现成骄傲和防空雷达啊回复\n");
 }
 
@@ -23,9 +24,8 @@ int main() {
 	
 	}
 
-	
-	
 	a.close();
 	
 	return 0;
 }
+```
